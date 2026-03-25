@@ -1,0 +1,22 @@
+Sleep Analysis Statistical Results
+=================================
+
+1. REM Efficiency vs. Sleep Duration
+  Slope: 0.0000
+  Correlation (r): 0.004
+  p-value: 0.973
+  Conclusion: No statistically significant relationship between sleep duration and REM fraction.
+
+2. Nap Effect on Sleep Latency
+  Mean latency with nap: 19.0 min
+  Mean latency without nap: 17.8 min
+  p-value: 0.710
+  Conclusion: No statistically significant effect of naps on sleep latency.
+
+3. HRV vs. Sleep Fragmentation
+  Slope: -0.0338
+  Correlation (r): -0.266
+  p-value: 0.019
+  Conclusion: Lower HRV is associated with more fragmented sleep (statistically significant).
+
+End of analysis.
