@@ -254,7 +254,7 @@ emotional health. If not supported, then REM efficiency may not depend
 on sleep length in your case, so focusing on sleep duration alone may
 not improve REM.
 
-!\[](./image1.png){width="6.5in" height="4.875in"}
+
 
 Statistical: REM Efficiency vs. Sleep Duration
 
@@ -277,7 +277,7 @@ Interpretation: If naps increase latency, then consider limiting naps or
 timing them earlier in the day. If no effect, then naps may be a safe
 coping strategy for crisis events without harming main sleep.
 
-!\[](./image2.png){width="6.5in" height="4.875in"}
+![Figure 2](image2.png)
 
 Statistical: Nap Effect on Sleep Latency
 
@@ -302,7 +302,7 @@ help anticipate and manage sleep fragmentation. If not supported, then
 other factors may be driving sleep fragmentation, and further
 investigation is needed.
 
-!\[](./image3.png){width="6.5in" height="4.875in"}
+![Figure 3](image3.png)
 
 Statistical. HRV vs. Sleep Fragmentation:
 
