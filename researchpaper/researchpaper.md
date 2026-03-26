@@ -254,7 +254,7 @@ emotional health. If not supported, then REM efficiency may not depend
 on sleep length in your case, so focusing on sleep duration alone may
 not improve REM.
 
-
+![Figure 1](image1.png)
 
 Statistical: REM Efficiency vs. Sleep Duration
 
