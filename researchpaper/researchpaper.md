@@ -1,8 +1,9 @@
-Title
+![Fragmented Time](fragmentingclocks.png)
 
-Patient‑Driven Analysis of Wearable Sleep Data Using Generative AI:
+Title:  Coping with Fragmented Sleep
 
-A Case Study Demonstrating HRV--Sleep Fragmentation Dynamics
+Subtitle:  Patient‑Driven Analysis of Wearable Sleep Data Using Generative AI:
+A Case Study Demonstrating HRV-Sleep Fragmentation Dynamics
 
 Authors:
 
@@ -127,9 +128,12 @@ increasing sleep efficiency as a tactical effort underneath a broader
 focus on maintaining homeostasis.
 
 RR's sleep problem is related to severe homeostatic imbalance as
-regards brain blood flow, He is at high risk for syncope or stroke and
-collapses in bed often to re-establish adequate brain blood flow. His
-naps last from a few minutes to a few hours.
+regards brain blood flow. He is at high risk for syncope or stroke and
+collapses in bed often to re-establish adequate brain blood flow. These collapses typically lead
+to naps that vary widely in duration from a few minutes to a few hours and occur
+throughout the day and night.
+
+![24-hour histogram of sleep start times](sleep_fragment_24h.png "24-hour histogram of sleep start times")
 
 The Ring exportable data requires the sleep episode to exceed two hours,
 while direct access via the smartphone screen app shows far more data
@@ -328,7 +332,11 @@ dysphagia, dysphonia, and severe COPD. The upshot is my need to be able
 to 'nap' frequently to counter the tendence to collapse. So, I'd like
 to sketch a
 CBT-for-fragemented-sleep-due-to-overwhelming-homeostatic-balance-failure
-(CBT-balance or CBT-B). Your pointers included a free 6-week course from
+(CBT-balance or CBT-B). 
+
+![BP vs Time](bp.jpg "Patient's BP oscillates between 220/150 and 70/40. Data extracted from 24-hr BP monitor")
+
+Your pointers included a free 6-week course from
 the Mayo Clinic on CBT-I. My impression is that CBT-I is not
 standardized but represents an approach to retraining the body to fall
 in line with circadian rhythms. If you know a standard CBT-I, then
@@ -594,8 +602,8 @@ This paper does not forward a clinical claim of a validated clinical
 study. In medical journal parlance the paper is a "n of 1" case study
 with the patient and author as the same person -- subjective and prone
 to bias. However, the author has also been transparent in providing his
-data and programs in a public GitHub repository (see GitHub
-royrada/SleepAnalysis) and arguing that his experience could benefit
+data and programs in a public GitHub repository (see 
+https://GitHub.com/royrada/SleepAnalysis) and arguing that his experience could benefit
 other patients. Other patients have access to GenAI, have medical
 problems, and are tracking their own health parameters. They can use the
 workflow illustrated in this paper to help themselves.
